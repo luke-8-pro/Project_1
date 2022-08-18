@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fec508ed-4df9-4498-bd44-de5ef1fd7577": {
+      "ProjectGuid": "fec508ed-4df9-4498-bd44-de5ef1fd7577",
+      "DisplayName": "网络通信助手",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
