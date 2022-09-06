@@ -1,0 +1,61 @@
+D:\C#测试\网络通信助手\网络通信助手\网络通信助手\bin\Debug\网络通信助手.exe.config
+D:\C#测试\网络通信助手\网络通信助手\网络通信助手\bin\Debug\网络通信助手.exe
+D:\C#测试\网络通信助手\网络通信助手\网络通信助手\bin\Debug\网络通信助手.pdb
+D:\C#测试\网络通信助手\网络通信助手\网络通信助手\obj\Debug\网络通信助手.Properties.Resources.resources
+D:\C#测试\网络通信助手\网络通信助手\网络通信助手\obj\Debug\网络通信助手.csproj.GenerateResource.Cache
+D:\C#测试\网络通信助手\网络通信助手\网络通信助手\obj\Debug\网络通信助手.exe
+D:\C#测试\网络通信助手\网络通信助手\网络通信助手\obj\Debug\网络通信助手.pdb
+D:\C#测试\网络通信助手\网络通信助手\网络通信助手\obj\Debug\网络通信助手.主界面.resources
+D:\C#测试\网络通信助手\网络通信助手\网络通信助手\bin\Debug\DB数据库文件\DB数据库.accdb
+D:\C#测试\网络通信助手\网络通信助手\网络通信助手\obj\Debug\网络通信助手.调用窗体.F_关于.resources
+C:\Users\LENOVO\Desktop\测试可删\C#测试\网络通信助手20190922V1.1.1\网络通信助手\网络通信助手\bin\Debug\网络通信助手.exe.config
+C:\Users\LENOVO\Desktop\测试可删\C#测试\网络通信助手20190922V1.1.1\网络通信助手\网络通信助手\obj\Debug\网络通信助手.exe
+C:\Users\LENOVO\Desktop\测试可删\C#测试\网络通信助手20190922V1.1.1\网络通信助手\网络通信助手\obj\Debug\网络通信助手.pdb
+C:\Users\LENOVO\Desktop\测试可删\C#测试\网络通信助手20190922V1.1.1\网络通信助手\网络通信助手\bin\Debug\DB数据库文件\DB数据库.accdb
+C:\Users\LENOVO\Desktop\测试可删\C#测试\网络通信助手20190922V1.1.1\网络通信助手\网络通信助手\bin\Debug\网络通信助手.exe
+C:\Users\LENOVO\Desktop\测试可删\C#测试\网络通信助手20190922V1.1.1\网络通信助手\网络通信助手\bin\Debug\网络通信助手.pdb
+C:\Users\LENOVO\Desktop\测试可删\C#测试\网络通信助手20190922V1.1.1\网络通信助手\网络通信助手\obj\Debug\网络通信助手.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\测试可删\C#测试\网络通信助手20190922V1.1.1\网络通信助手\网络通信助手\obj\Debug\网络通信助手.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\测试可删\C#测试\网络通信助手20190922V1.1.1\网络通信助手\网络通信助手\obj\Debug\网络通信助手.主界面.resources
+C:\Users\LENOVO\Desktop\测试可删\C#测试\网络通信助手20190922V1.1.1\网络通信助手\网络通信助手\obj\Debug\网络通信助手.调用窗体.F_关于.resources
+C:\Users\LENOVO\Desktop\测试可删\C#测试\网络通信助手20190922V1.1.1\网络通信助手\网络通信助手\obj\Debug\网络通信助手.csproj.GenerateResource.Cache
+D:\C#测试\网络通信助手\网络通信助手\网络通信助手\obj\Debug\网络通信助手.csprojResolveAssemblyReference.cache
+D:\c++秋招集训\网络通信助手20190923V1.1.4\网络通信助手\网络通信助手\bin\Debug\DB数据库文件\DB数据库.accdb
+D:\c++秋招集训\网络通信助手20190923V1.1.4\网络通信助手\网络通信助手\bin\Debug\网络通信助手.exe.config
+D:\c++秋招集训\网络通信助手20190923V1.1.4\网络通信助手\网络通信助手\bin\Debug\网络通信助手.exe
+D:\c++秋招集训\网络通信助手20190923V1.1.4\网络通信助手\网络通信助手\bin\Debug\网络通信助手.pdb
+D:\c++秋招集训\网络通信助手20190923V1.1.4\网络通信助手\网络通信助手\obj\Debug\网络通信助手.csproj.AssemblyReference.cache
+D:\c++秋招集训\网络通信助手20190923V1.1.4\网络通信助手\网络通信助手\obj\Debug\网络通信助手.csproj.SuggestedBindingRedirects.cache
+D:\c++秋招集训\网络通信助手20190923V1.1.4\网络通信助手\网络通信助手\obj\Debug\网络通信助手.Properties.Resources.resources
+D:\c++秋招集训\网络通信助手20190923V1.1.4\网络通信助手\网络通信助手\obj\Debug\网络通信助手.csproj.GenerateResource.cache
+D:\c++秋招集训\网络通信助手20190923V1.1.4\网络通信助手\网络通信助手\obj\Debug\网络通信助手.csproj.CoreCompileInputs.cache
+D:\c++秋招集训\网络通信助手20190923V1.1.4\网络通信助手\网络通信助手\obj\Debug\网络通信助手.exe
+D:\c++秋招集训\网络通信助手20190923V1.1.4\网络通信助手\网络通信助手\obj\Debug\网络通信助手.pdb
+D:\c++秋招集训\网络通信助手20190923V1.1.4\网络通信助手\网络通信助手\obj\Debug\RTOS通信上位机.主界面.resources
+D:\c++秋招集训\网络通信助手20190923V1.1.4\网络通信助手\网络通信助手\obj\Debug\RTOS通信上位机.调用窗体.F_关于.resources
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机\RTOS通信上位机\bin\Debug\DB数据库文件\DB数据库.accdb
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机\RTOS通信上位机\bin\Debug\网络通信助手.exe.config
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机\RTOS通信上位机\bin\Debug\网络通信助手.exe
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机\RTOS通信上位机\bin\Debug\网络通信助手.pdb
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机\RTOS通信上位机\obj\Debug\RTOS通信上位机.csproj.AssemblyReference.cache
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机\RTOS通信上位机\obj\Debug\RTOS通信上位机.csproj.SuggestedBindingRedirects.cache
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机\RTOS通信上位机\obj\Debug\网络通信助手.Properties.Resources.resources
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机\RTOS通信上位机\obj\Debug\RTOS通信上位机.主界面.resources
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机\RTOS通信上位机\obj\Debug\RTOS通信上位机.调用窗体.F_关于.resources
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机\RTOS通信上位机\obj\Debug\RTOS通信上位机.csproj.GenerateResource.cache
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机\RTOS通信上位机\obj\Debug\RTOS通信上位机.csproj.CoreCompileInputs.cache
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机\RTOS通信上位机\obj\Debug\网络通信助手.exe
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机\RTOS通信上位机\obj\Debug\网络通信助手.pdb
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机 - 副本\RTOS通信上位机\bin\Debug\DB数据库文件\DB数据库.accdb
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机 - 副本\RTOS通信上位机\bin\Debug\网络通信助手.exe.config
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机 - 副本\RTOS通信上位机\bin\Debug\网络通信助手.exe
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机 - 副本\RTOS通信上位机\bin\Debug\网络通信助手.pdb
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机 - 副本\RTOS通信上位机\obj\Debug\RTOS通信上位机.csproj.AssemblyReference.cache
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机 - 副本\RTOS通信上位机\obj\Debug\RTOS通信上位机.csproj.SuggestedBindingRedirects.cache
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机 - 副本\RTOS通信上位机\obj\Debug\网络通信助手.Properties.Resources.resources
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机 - 副本\RTOS通信上位机\obj\Debug\RTOS通信上位机.主界面.resources
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机 - 副本\RTOS通信上位机\obj\Debug\RTOS通信上位机.调用窗体.F_关于.resources
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机 - 副本\RTOS通信上位机\obj\Debug\RTOS通信上位机.csproj.GenerateResource.cache
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机 - 副本\RTOS通信上位机\obj\Debug\RTOS通信上位机.csproj.CoreCompileInputs.cache
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机 - 副本\RTOS通信上位机\obj\Debug\网络通信助手.exe
+D:\c++秋招集训\网络通信助手20190923V1.1.4\RTOS通信上位机 - 副本\RTOS通信上位机\obj\Debug\网络通信助手.pdb
